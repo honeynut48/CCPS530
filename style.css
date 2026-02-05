@@ -91,6 +91,26 @@ td {
     text-align: center;
 }
 
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: #ff00c8;
+}
+
+.container .row {
+    border: 3px solid black;
+}
+
+.container .col-2 {
+    font-weight: bold;
+    background-color: #ceffce;
+    border-right: 3px solid black;
+}
+
+.container .col-10 {
+    background-color: #ff7b7b;
+    font-weight: bold;
+}
+
 footer {
     text-align: center;
     margin-top: 20px;
