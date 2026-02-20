@@ -96,8 +96,6 @@ footer {
     margin-top: 20px;
 }
 
-
-
 .custom-navbar .navbar-brand,
 .custom-navbar .nav-link {
     color: #ff00c8;
@@ -117,3 +115,21 @@ footer {
     background-color: #ff7b7b;
     font-weight: bold;
 }
+
+#carContainer > div {
+    padding: 10px;
+    border: 1px solid #ffffff;
+}
+  
+#carContainer .col-12 {
+    border-bottom: none;
+}
+  
+#carContainer {
+    background-color: #b887af;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
